@@ -24,11 +24,25 @@
         <br><b>AI Character Builder</b>
       </td>
       <td style="padding: 10px; border: none;">
-        <img src="assets/screenshots/effects-panel.png" alt="Dynamic Effects Panel" width="400" style="border-radius: 8px;">
-        <br><b>Pixel FX Engine</b>
-      </td>
-    </tr>
+        <img src="assets/screenshots/shape_library.png" alt="Shape Library Panel" width="400" height="600" style="border-radius: 8px;" >
+        <br><b>Multiple Shapes Drawing Feature</b>
+        <td style="padding: 10px; border: none;">
+        <img src="assets/screenshots/music-library.png" alt="Shape Library Panel" width="400" height="600" style="border-radius: 8px;" >
+        <br><b>Selection of Music with playing feature</b>
+
+      
+    
   </table>
+</div>
+
+<div align="center">
+  <img src="assets/demo/Smooth Playback.gif" alt="AniMate Live Demo" width="850" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <p><em>Experience seamless frame-by-frame animation with real-time playback and AI assistance.</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/demo/AI Magic.gif" alt="AniMate Live Demo" width="850" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <p><em>Experience seamless frame-by-frame animation where actual AI Magic happens.</em></p>
 </div>
 
 ## 🌟 Overview
